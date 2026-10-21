@@ -116,7 +116,7 @@
 .u-container-layout.hover .u-section-1 .u-social-icons-1 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/22090201c.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/1100_576dd229e8c6e8cb.jpg");
   background-position: 50% 50%;
 }
 
@@ -263,7 +263,7 @@
 }.u-section-5 .u-sheet-1 {
   min-height: 13px;
 } .u-section-6 {
-  background-image: url("images/commissionsummarybanner.jpg");
+  background-image: url("images/commissionsummarybanner3.png");
   background-position: 50% 50%;
 }
 
@@ -271,23 +271,9 @@
   min-height: 469px;
 }
 
-.u-section-6 .u-text-1 {
-  font-size: 2.25rem;
-  font-weight: normal;
-  margin: 121px 0 60px auto;
-}
-
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
     min-height: 330px;
-  }
-
-  .u-section-6 .u-text-1 {
-    width: auto;
-    font-size: 1.5rem;
-    font-weight: 700;
-    margin-top: 91px;
-    margin-right: 1px;
   }
 }
 
@@ -295,22 +281,11 @@
   .u-section-6 .u-sheet-1 {
     min-height: 248px;
   }
-
-  .u-section-6 .u-text-1 {
-    font-size: 1.25rem;
-    margin-top: 68px;
-    margin-right: 0;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
     min-height: 156px;
-  }
-
-  .u-section-6 .u-text-1 {
-    font-size: 0.875rem;
-    margin-top: 43px;
   }
 }.u-section-7 .u-sheet-1 {
   min-height: 18px;
